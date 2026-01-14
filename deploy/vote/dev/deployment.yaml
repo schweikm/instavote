@@ -6,7 +6,6 @@ metadata:
     tier: front
   name: vote
 spec:
-  replicas: 3
   template:
     spec:
       containers:
