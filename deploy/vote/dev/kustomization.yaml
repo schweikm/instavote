@@ -8,3 +8,4 @@ replicas:
 images:
 - name: docker.io/schoolofdevops/vote
   newTag: v4
+namespace: instavote
