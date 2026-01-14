@@ -9,3 +9,8 @@ images:
 - name: docker.io/schoolofdevops/vote
   newTag: v4
 namespace: instavote
+commonLabels:
+  project: instavote
+  env: dev
+commonAnnotations:
+  supported-by: yourmom
