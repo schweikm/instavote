@@ -19,5 +19,4 @@ spec:
     spec:
       containers:
       - image: docker.io/schoolofdevops/vote:v1
-        name: schoolofdevops
-        resources: {}
+        name: vote
